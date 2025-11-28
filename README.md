@@ -4,17 +4,25 @@ This project is centered around developing a machine learning model capable of e
 🚀 Features
 
 -Predicts the probability of diabetes based on user health metrics
+
 -Includes robust preprocessing steps such as scaling, imputation, and feature selection
+
 -Hyperparameter tuning performed to maximize model performance
+
 -Deployed using Streamlit for interactive real-time inference
+
 -Integrated visualizations for better understanding of dataset patterns
 
 🛠️ Technologies Used
 
 -Python
+
 -Pandas, NumPy → Data preprocessing and manipulation
+
 -Scikit-learn → Model training and evaluation
+
 -Streamlit → Front-end deployment
+
 -Matplotlib, Seaborn → Data visualization
 
 🌐 Deployment
@@ -24,5 +32,7 @@ The trained model is integrated with a Streamlit web application, offering a cle
 📌 Future Improvements
 
 -Extend the system to support multiple disease predictions
+
 -Enhance and modernize the Streamlit UI
+
 -Host the application on cloud platforms such as AWS, Render, or Heroku

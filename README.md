@@ -1,6 +1,7 @@
 # DiseasePrediction
 This project is centered around developing a machine learning model capable of estimating the likelihood of diabetes in an individual. The dataset used for training and evaluation comes from Kaggle. The workflow includes preprocessing, feature engineering, and tuning various algorithms to enhance accuracy. The final solution also includes a Streamlit web application, which allows users to input their health parameters and receive predictions instantly through an intuitive interface.
 
+
 🚀 Features
 
 -Predicts the probability of diabetes based on user health metrics
@@ -12,6 +13,7 @@ This project is centered around developing a machine learning model capable of e
 -Deployed using Streamlit for interactive real-time inference
 
 -Integrated visualizations for better understanding of dataset patterns
+
 
 🛠️ Technologies Used
 
@@ -25,9 +27,11 @@ This project is centered around developing a machine learning model capable of e
 
 -Matplotlib, Seaborn → Data visualization
 
+
 🌐 Deployment
 
 The trained model is integrated with a Streamlit web application, offering a clean and user-friendly interface where users can input their values (such as glucose level, BMI, age, etc.) and instantly receive predictions.
+
 
 📌 Future Improvements
 
